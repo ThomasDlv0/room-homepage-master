@@ -1,0 +1,83 @@
+@import "reset.css";
+@import "header.css";
+
+
+
+/*
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    height: 100vh;
+}
+
+.sections-cta {
+    position: relative;
+    padding: 8rem 6rem;
+    width: 40vw;
+    height: 60vh;
+}
+
+.section-about {
+    display: flex;
+    height: 100%;
+}
+
+.slider-hero {
+    display: flex;
+}
+
+.slider-hero {
+    display: flex;
+    position: absolute;
+    width: 10vw;
+    bottom: 0;
+    left: 0;
+}
+
+.btn-slider {
+    width: 100%;
+}
+
+.btn-slider button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--color-black);
+    color: var(--color-grey-800);
+    border: none;
+    padding: 1.5rem 1.8rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+    width: 100%;
+}
+
+.btn-slider button:hover{
+    background-color: var(--color-grey-800);
+}
+
+.section-abouts {
+    display: flex;
+    width: 100vw;
+    height: 40vh;
+}
+
+
+.image-dark-about {
+    background-image: url(../images/image-about-dark.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.image-light-about {
+    background-image: url(../images/image-about-light.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.image-light-about,
+.image-dark-about {
+    width: 100vw;
+    height: 40vh;
+}
+*/

@@ -1,0 +1,41 @@
+:root {
+    --color-white: hsl(0, 100%, 100%);
+    --color-grey-500 : hsl(0, 0%, 63%);
+    --color-grey-800 : hsl(0, 0%, 27%);
+    --color-black : hsl(0, 0%, 0%);
+}
+
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: var(--color-black);
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+html {
+    font-family: "League Spartan", sans-serif;
+    font-weight: 500;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+}
+
